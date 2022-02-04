@@ -8,6 +8,7 @@
 :white_check_mark: Default Sortierung  
 :white_check_mark: Überschrift und Main Text Area
 :white_check_mark: Detailansicht 
+:white_check_mark: Such Funktion
 
 # Animation
 
