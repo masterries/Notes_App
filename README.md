@@ -1,23 +1,21 @@
-# Notes App
+<p><h2> Note App </h2></p> 
 
-Notes App is a simple note application for Android written by Kotlin.
+# Funktionen
+:white_check_mark: Hinzufügen von Note  
+:white_check_mark: Editieren von Note  
+:white_check_mark: Anpassung der Noteboxen  
+:white_check_mark: Zu Großer text nicht anzeigen  
+:white_check_mark: Default Sortierung  
+:white_check_mark: Überschrift und Main Text Area
+:white_check_mark: Detailansicht   
+:white_check_mark: Such Funktion
 
-<img src="/previews/screenshot1.png" width="32%"/><img src="/previews/screenshot2.png" width="32%"/><img src="/previews/screenshot3.png" width="32%"/><img src="/previews/screenshot4.png" width="32%"/><img src="/previews/screenshot5.png" width="32%"/>
+# Animation
 
-## Tech stack
+![Text](https://i.imgur.com/nbtaMk1.gif)
+# Weitere Bilder
 
-- [Kotlin](https://github.com/JetBrains/kotlin)
-- MVVM Architecture (Model - View - ViewModel)
-- Minimum SDK level 26
-- [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Coroutines are light-weight threads that do not block the main thread while providing the ability to call suspending functions on the main thread.
-- [Kotlin Flows](https://developer.android.com/kotlin/flow)
-- Jetpack libraries
-    - Lifecycle
-    - Navigation
-    - Room 
-    - Hilt
-    - DataBinding
+![Text](https://i.imgur.com/1kkcDKA.png)
+![Text](https://i.imgur.com/DlKTxXN.png)
+![Text](https://i.imgur.com/goDYEUg.png)
 
-## License
-
-[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
